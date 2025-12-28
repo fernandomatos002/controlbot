@@ -1,0 +1,13 @@
+{
+    "min_interval": 3,
+    "max_interval": 5,
+    "farm_priority": true,
+    "storage_priority": true,
+    "reserve_for_building": true,
+    "research_priority": [
+        "spear",
+        "light",
+        "spy",
+        "axe"
+    ]
+}
